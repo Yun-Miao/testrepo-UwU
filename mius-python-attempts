@@ -1,0 +1,10 @@
+def miu():
+    quq()
+    return 
+    
+def quq():
+    print("Miu Miu is learning!")
+    print("UwU")
+    return
+    
+miu()
